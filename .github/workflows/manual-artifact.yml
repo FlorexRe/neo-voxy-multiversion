@@ -58,4 +58,4 @@ jobs:
         with:
           path: dist/*.jar
           if-no-files-found: error
-          archive: false
+          archive: true
